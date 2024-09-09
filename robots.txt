@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bolyposed.github.io/sitemap.html.gz
+Sitemap: https://bolyposed.github.io/app/sitemap.html.gz
+Sitemap: https://bolyposed.github.io/assets/sitemap.html.gz
+Sitemap: https://bolyposed.github.io/css/sitemap.html.gz
+Sitemap: https://bolyposed.github.io/includes/sitemap.html.gz
+Sitemap: https://bolyposed.github.io/item/sitemap.html.gz
+Sitemap: https://bolyposed.github.io/src/sitemap.html.gz
